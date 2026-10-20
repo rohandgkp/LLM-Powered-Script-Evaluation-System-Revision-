@@ -1,0 +1,5 @@
+Removed component,Pearson,Δ vs full composite,Learned weight (mean over folds)
+context,0.491,-0.052,0.428
+keyword,0.486,-0.057,0.281
+synonym,0.538,-0.005,0.243
+grammar,0.543,-0.0,0.048

@@ -1,0 +1,6 @@
+,pred correct,pred partial,pred contrad,pred irrelev,pred non_dom
+gold correct,176,51,4,2,0
+gold partially_correct_incomplete,17,85,3,8,0
+gold contradictory,3,6,42,7,0
+gold irrelevant,7,14,6,105,1
+gold non_domain,0,1,0,1,1

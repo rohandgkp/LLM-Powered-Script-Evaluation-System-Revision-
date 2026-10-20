@@ -1,0 +1,7 @@
+variant,student_answer,llama3_ft,llama3_instruct_zs_cal,lexical_4
+original,Low.,correct,partially_correct_incomplete,irrelevant
+negated,It is not the case that low.,contradictory,contradictory,irrelevant
+keyword_salad,lower longer pitch string,correct,irrelevant,correct
+swapped,He is using a Celsius.,irrelevant,irrelevant,irrelevant
+typos,Low.,correct,partially_correct_incomplete,irrelevant
+paraphrase,Minimal.,irrelevant,irrelevant,irrelevant

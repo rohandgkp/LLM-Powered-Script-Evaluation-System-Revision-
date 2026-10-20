@@ -1,0 +1,7 @@
+variant,student_answer,llama3_ft,llama3_instruct_zs,lexical_composite
+original,Array can retrieve memory from any place in the list while in a link list you have to traverse through each individual node.,9.515412289903121,8.453803684278,8.311419269453037
+negated,Array can not retrieve memory from any place in the list while in a link list you have to traverse through each individual node.,8.835231565483085,7.176530019641166,8.025926298587667
+keyword_salad,lists require elements iterative directly linked accessed opposed traversal array,8.43214219584172,4.5873484467582495,10.0
+swapped,Nonconstant pointer to nonconstant data Constant pointer to nonconstant data Nonconstant pointer to constant data Constant point to constant data,6.2136999676201405,0.6952764534578688,6.732903941524162
+typos,Array can retrieve memory from any place in the list while in a link liist you hve to traevrse through each individual node.,9.537575561986273,8.214934075585365,7.777071231125047
+paraphrase,"Array can access memory from any location in the list directly, whereas in a linked list, you need to sequentially traverse each node to access the memory.",9.845980050612232,9.00813277190736,9.012161397311276
