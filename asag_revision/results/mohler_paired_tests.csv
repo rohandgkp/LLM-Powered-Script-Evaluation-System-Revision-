@@ -1,0 +1,8 @@
+A,B,comparison,d_pearson,d_pearson_ci,p_pearson,d_mae,d_mae_ci,p_mae,d_qwk,d_qwk_ci,p_qwk,p_pearson_holm
+llama3_ft,llama3_base_zs_cal,Fine-tuning vs the same base model zero-shot,0.15432397024212663,"[0.101, 0.207]",0.0005,-0.3802244694401392,"[-0.465, -0.284]",0.0005,0.2502267838475075,"[0.195, 0.302]",0.0005,0.0035
+llama3_ft,llama3_instruct_zs,Fine-tuned vs Instruct zero-shot,0.09202562349808718,"[0.062, 0.127]",0.0005,-0.6556141390749145,"[-0.752, -0.558]",0.0005,0.14737665369530695,"[0.109, 0.188]",0.0005,0.0035
+llama3_ft,llama3_instruct_zs_cal,Fine-tuned vs Instruct zero-shot (rescaled),0.0963490084611629,"[0.066, 0.132]",0.0005,-0.25030082540102694,"[-0.313, -0.185]",0.0005,0.15465339019002122,"[0.119, 0.191]",0.0005,0.0035
+llama3_ft,composite_fixed_cal,Fine-tuned vs lexical composite,0.2177757901271754,"[0.160, 0.279]",0.0005,-0.4187302972485124,"[-0.525, -0.311]",0.0005,0.31355884070258755,"[0.250, 0.375]",0.0005,0.0035
+llama3_instruct_zs,composite_fixed_cal,Instruct zero-shot vs lexical composite,0.12575016662908822,"[0.062, 0.190]",0.0005,0.2368838418264021,"[0.098, 0.371]",0.004,0.1661821870072806,"[0.094, 0.237]",0.0005,0.0035
+fusion_learned,llama3_ft,Learned fusion vs fine-tuned alone,0.02418114628864243,"[0.007, 0.043]",0.006,0.004926229667100324,"[-0.039, 0.048]",0.846,0.029083160305482747,"[0.010, 0.050]",0.005,0.012
+fusion_original,llama3_ft,Original 30/70 fusion vs fine-tuned alone,0.0020228671357189754,"[-0.014, 0.019]",0.807,0.5921317137635688,"[0.490, 0.690]",0.0005,-0.12789617426047495,"[-0.161, -0.095]",0.0005,0.807

@@ -1,0 +1,5 @@
+model,batch_size,ms_per_answer,peak_vram_gb
+llama3_base_zs,1,277.6667561093742,5.882354688
+llama3_base_zs,8,127.54388681250006,6.204091392
+llama3_instruct_zs,1,382.059669453124,5.884961792
+llama3_instruct_zs,8,166.31360378124782,6.224893952

@@ -1,0 +1,7 @@
+{
+  "torch": "2.11.0+cu128",
+  "transformers": "5.16.1",
+  "bitsandbytes": "0.50.2",
+  "peft": "0.21.1",
+  "gpu": "Tesla T4"
+}

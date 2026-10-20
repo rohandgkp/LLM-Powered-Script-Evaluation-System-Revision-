@@ -1,0 +1,16 @@
+dataset,metric,diff,ci,p
+mohler,pearson,0.0032508074005671572,"[-0.034, 0.042]",0.832
+mohler,mae,-0.002966313202428017,"[-0.076, 0.068]",0.905
+mohler,qwk,0.005971005775863847,"[-0.029, 0.045]",0.704
+mohler,"signed error, gold < 6",-0.3663859373566545,"[-0.729, -0.025]",0.038
+scientsbank test_ua,5-way macro_f1,0.09935965143663339,"[-0.118, 0.207]",0.088
+scientsbank test_ua,5-way weighted_f1,0.025822365570899675,"[-0.000, 0.053]",0.056
+scientsbank test_ua,5-way contradictory_f1,-0.006637168141592875,"[-0.064, 0.047]",0.864
+scientsbank test_uq,5-way macro_f1,0.014713480598585571,"[-0.015, 0.054]",0.335
+scientsbank test_uq,5-way weighted_f1,0.01391774652586475,"[-0.018, 0.050]",0.442
+scientsbank test_uq,5-way contradictory_f1,0.04563738755211,"[-0.049, 0.127]",0.314
+scientsbank test_ud,5-way macro_f1,-0.017595885627910923,"[-0.050, 0.009]",0.222
+scientsbank test_ud,5-way weighted_f1,-0.004168181756975309,"[-0.028, 0.019]",0.725
+scientsbank test_ud,5-way contradictory_f1,-0.006530689013813706,"[-0.034, 0.022]",0.563
+"mohler, real answers containing a negation word (n=337)",signed error,0.03946262596468647,"[-0.232, 0.285]",0.749
+"scientsbank, real CORRECT answers containing a negation word (n=226)",share wrongly labelled 'contradictory',0.030973451327433628,"[-0.004, 0.069]",0.103

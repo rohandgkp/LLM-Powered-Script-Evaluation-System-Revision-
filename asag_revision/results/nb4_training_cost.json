@@ -1,0 +1,10 @@
+{
+ "n_train": 4472,
+ "n_val": 497,
+ "total_steps": 1118,
+ "sec_per_step": 6.091756363034461,
+ "train_minutes": 114.87403107881546,
+ "peak_vram_gb": 8.192966144,
+ "trainable_params": 41943040,
+ "best_epoch": 2.0
+}
